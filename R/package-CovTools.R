@@ -18,7 +18,7 @@
 #' @docType package
 #' @name package-CovTools
 #' @aliases CovTools-package
-#' @import shapes
+# @import shapes
 #' @import parallel
 #' @import doParallel
 #' @import foreach
