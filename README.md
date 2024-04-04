@@ -1,3 +1,5 @@
+#### Note:
+updated to remove dependency on `shapes` and `rgl`
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
